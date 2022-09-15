@@ -156,7 +156,7 @@ The mini-search-engine enables 3 types of search:
 
 ```
 
-### How many times a word is present in the whole database
+### How many documents contain(s) a specific word 
 
 ```
 
@@ -165,6 +165,7 @@ The mini-search-engine enables 3 types of search:
 ```
 
 ```
+### How many times a word is present in the whole database
 
 /df
 
