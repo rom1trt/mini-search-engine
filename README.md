@@ -144,7 +144,7 @@ The mini-search-engine enables 3 types of search:
 
 ```
 
-/tf <document-id> <word> <number-of-occurrences>
+/tf <document-id> <word>
 
 ```
 
