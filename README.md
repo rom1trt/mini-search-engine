@@ -163,9 +163,9 @@ The mini-search-engine enables 3 types of search:
 /df <word>
 
 ```
+### How many times a word is present in the whole database
 
 ```
-### How many times a word is present in the whole database
 
 /df
 
