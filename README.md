@@ -140,7 +140,7 @@ pip3 install -r requirements.txt
 
 The mini-search-engine enables 3 types of search:
 
-### How many times a word is present in a specific document
+### How many times a word is present in a specific document - Term Frequency
 
 ```
 
@@ -156,7 +156,7 @@ The mini-search-engine enables 3 types of search:
 
 ```
 
-### How many documents contain(s) a specific word 
+### How many documents contain(s) a specific word - Document Frequency
 
 ```
 
@@ -185,7 +185,7 @@ List every word and their occurrences
 
 ```
 
-### Search
+### Search (at most 10 words)
 
 ```
 
